@@ -21,4 +21,4 @@ This is a Java-based Number Guessing Game developed as part of the CodSoft Java 
    java NumberGuessingGame
 
 ## 📌 Author
-Your Name
+Mithuna 
